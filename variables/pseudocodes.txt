@@ -1,0 +1,50 @@
+PSEUDOCODES:
+  Simple english steps representing the progran logic
+
+IMPORTANCE :
+to think logically
+1. Planning
+2. Logic Building
+3. Understanding the algorithm
+
+#Structure of the PSEUDOCODES
+Start
+step-1
+step-2
+step-3
+step-4
+End
+
+
+Example: Addition of two numbers
+START
+input the first number
+input the second number
+add the both numbers
+display the output / print the output
+END
+
+
+#write a pseudocode for average of numbers
+START
+input the first number
+input the second number
+input the third number
+find the average of the given three numbers(sum of all numbers / total number)
+print the average/output
+END
+
+# write a pseudocode for the square of a number
+START
+input a number
+multiply the number with the same number
+print the output 
+END
+
+#write the pseudocode for finding the area of a rectangle
+START
+Input the first number which is length(l)
+input the second number which is breadth(b)
+find the area of the rectangle(l*b)
+print the output
+END

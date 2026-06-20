@@ -1,0 +1,5 @@
+rahul 50000
+anjali 60000
+sanjana 55000
+Mona 90000.0
+Mona 90000.0

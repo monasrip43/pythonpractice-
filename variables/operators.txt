@@ -1,0 +1,51 @@
+Programming needs some symbols to do operations
+
+symbols ---> operators
+Operators: performs the operations between the operands
+
+Arithmetic operators
+1.Addition : +
+2.Substraction : -
+3.Division : / (always returns the flot value)
+4.Floor Division : // (rounds the value)
+ex: print(10//3)
+output:3(removes the decimal values)
+5.Modular : %(returns the remainder)
+ex: 10%3 = 1(output)
+6.Power : **
+ex: 2**3 = 8
+
+#Assignment Operators
+1. Equal = : Assigns the value 
+2. += :
+3. 
+
+
+
+
+
+logical Operators?
+ to check the multiple conditions :
+ '1.and --> & (when   both of the conditions are true)
+
+ 2.  or --> | ,
+
+
+
+
+
+
+
+ bitwise operators:
+ performs operations bit by bit
+ basically computer understands 0's and 1's 
+ it compares each and every bit 
+ operator    |   name
+ &             Bitwise AND
+ |             Bitwise OR
+ ^             Bitwise XOR
+ ~             Bitwise NOT
+ <<            left shift
+ >>            Right shift
+
+ 

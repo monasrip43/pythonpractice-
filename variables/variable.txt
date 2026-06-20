@@ -1,0 +1,9 @@
+VARIABLE:
+ IT is a type of container where the data is being stored.
+ python is dynamically typed unlike C or Java
+ int  a = 10(syntax in C or in Java)
+ 
+ Syntax:
+ var_name = value
+ EX: a = 10
+ var_name , classes , functions ----> identifiers

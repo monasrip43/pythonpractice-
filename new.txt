@@ -1,0 +1,21 @@
+PYTHON:
+It was developed by guido van rossum in the year 1991
+it is a dynamic high level language.
+it has both compiler and interpreter
+it is a dynamically typed language
+firstly the code is converted into byte code with the help of interpreter(it has an in built compiler)
+then the byte code is converted into machine understandable code with the help of PVM(python virtual machine)
+
+
+DATA TYPES
+Numeric :int, float, complex
+Sequence :string, list, tuple
+Boolean : bool
+Sets :  set, frozenset
+Mapping : dict
+
+
+R : READ
+E : EVALUATE
+P : PRINT
+L : LOOP
